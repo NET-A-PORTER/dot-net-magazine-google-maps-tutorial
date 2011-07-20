@@ -1,0 +1,15 @@
+body {background-color:white;color:white;font-family:Arial, Helvetica, sans-serif}
+.mapContainer{width:100%;height:700px;float:left}
+
+.infoBox{padding-top:5px;background-color:black; width:250px; background-repeat:repeat-x;border-top:1px solid black;}
+.infoBoxContent{ padding: 5px;color:white;font-size:10px;font-weight:bold}
+.infoBoxContent ul {list-style:none;padding-left:0;margin-left:0}
+.infoBoxContent ul li {}
+
+.imageBorder{width:100%;height:8px;background-image:url('images/imgBorder.png');clear:both;}
+.imageBorderTop{margin-top:15px;margin-bottom:5px}
+.imageBorderBottom{margin-top:3px;background-image:url('images/imgBorder.png');}
+.flickrPhotoTitle {font-size:120%; text-transform:uppercase;}
+.flickrPhotoUser {color:grey; text-transform:uppercase;}
+
+.sourceCodeLink {width:100%; text-align:right; margin:10px; font-size:12px; font-weight:bold;}
